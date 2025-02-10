@@ -3,7 +3,7 @@ no_task = []
 for i in range(28):
     a = int(input())
     task.append(a)
-    
+
 for o in range(1,31):
     a=task.count(o)
     if a==0:
